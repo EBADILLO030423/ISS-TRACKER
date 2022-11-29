@@ -1,0 +1,142 @@
+1669695226232	geckodriver	INFO	Listening on 127.0.0.1:60899
+1669695226538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60900" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofileEeXxRs"
+2022-11-28 22:13:47.975 plugin-container[47685:1209931] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:13:47.976 plugin-container[47685:1209931] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669695228049	Marionette	INFO	Marionette enabled
+1669695228081	Marionette	INFO	Listening on port 60909
+WebDriver BiDi listening on ws://localhost:60900
+Read port: 60909
+1669695228338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2022-11-28 22:13:48.363 plugin-container[47685:1209931] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:13:48.364 plugin-container[47685:1209931] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-28 22:13:48.364 plugin-container[47685:1209937] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:13:48.364 plugin-container[47685:1209937] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofileEeXxRs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60900/devtools/browser/77ba2166-7510-4711-980e-b1202af7890f
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.es_419.yCaL3U-x4ks.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=OwCCQA/rt=j/d=1/rs=ACT90oH5SeGeZt1x9y4F9j9E476FFqHXJg, line 2180: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669695235160	geckodriver	INFO	Listening on 127.0.0.1:60942
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669695235607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60943" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofileeIncDk"
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+2022-11-28 22:13:57.277 plugin-container[47698:1210350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:13:57.279 plugin-container[47698:1210350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669695237302	Marionette	INFO	Marionette enabled
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+1669695237373	Marionette	INFO	Listening on port 60966
+WebDriver BiDi listening on ws://localhost:60943
+Read port: 60966
+2022-11-28 22:13:57.583 plugin-container[47698:1210350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:13:57.583 plugin-container[47698:1210350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-28 22:13:57.583 plugin-container[47698:1210347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:13:57.583 plugin-container[47698:1210347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669695237766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofileeIncDk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60943/devtools/browser/46dab42c-5a46-403a-955d-a513e0dfc1e8
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.es_419.yCaL3U-x4ks.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=OwCCQA/rt=j/d=1/rs=ACT90oH5SeGeZt1x9y4F9j9E476FFqHXJg, line 2180: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669695256110	Marionette	INFO	Stopped listening on port 60909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1669695258265	Marionette	INFO	Stopped listening on port 60966
+1669696390695	geckodriver	INFO	Listening on 127.0.0.1:61884
+1669696391155	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61885" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofilee12pmT"
+2022-11-28 22:33:13.575 plugin-container[48092:1224264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:33:13.575 plugin-container[48092:1224264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696393599	Marionette	INFO	Marionette enabled
+1669696393633	Marionette	INFO	Listening on port 61892
+Read port: 61892
+WebDriver BiDi listening on ws://localhost:61885
+2022-11-28 22:33:13.761 plugin-container[48092:1224264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:33:13.761 plugin-container[48092:1224264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-28 22:33:13.761 plugin-container[48092:1224295] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:33:13.761 plugin-container[48092:1224295] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696393846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofilee12pmT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61885/devtools/browser/3e9fffb1-e6c5-4c69-b2c9-11b02335d3b4
+1669696433394	geckodriver	INFO	Listening on 127.0.0.1:61983
+1669696433853	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61984" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofiledEoq4X"
+2022-11-28 22:33:56.263 plugin-container[48121:1225218] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:33:56.263 plugin-container[48121:1225218] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696436282	Marionette	INFO	Marionette enabled
+1669696436316	Marionette	INFO	Listening on port 61990
+WebDriver BiDi listening on ws://localhost:61984
+Read port: 61990
+2022-11-28 22:33:56.456 plugin-container[48121:1225218] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:33:56.456 plugin-container[48121:1225218] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-28 22:33:56.456 plugin-container[48121:1225193] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:33:56.456 plugin-container[48121:1225193] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696436622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofiledEoq4X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61984/devtools/browser/a593c84c-eef7-4641-a0d0-d89b4e85bfdd
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.es_419.yCaL3U-x4ks.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=OwCGQA/rt=j/d=1/rs=ACT90oEodBYiLGXtanoV1OCPxIe6h2cL5w, line 2181: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1669696502788	geckodriver	INFO	Listening on 127.0.0.1:62087
+1669696503244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62088" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofilelMrouY"
+2022-11-28 22:35:05.488 plugin-container[48164:1226533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:35:05.488 plugin-container[48164:1226533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696505515	Marionette	INFO	Marionette enabled
+1669696505554	Marionette	INFO	Listening on port 62096
+WebDriver BiDi listening on ws://localhost:62088
+Read port: 62096
+2022-11-28 22:35:05.691 plugin-container[48164:1226533] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:35:05.691 plugin-container[48164:1226533] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-28 22:35:05.691 plugin-container[48164:1226597] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:35:05.691 plugin-container[48164:1226597] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696505926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofilelMrouY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62088/devtools/browser/f8ac7584-72ed-415d-b5ff-8821427c7272
+1669696580370	geckodriver	INFO	Listening on 127.0.0.1:62215
+1669696580835	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62216" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofileXuexhD"
+2022-11-28 22:36:22.209 plugin-container[48194:1228243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:36:22.209 plugin-container[48194:1228243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696582230	Marionette	INFO	Marionette enabled
+1669696582270	Marionette	INFO	Listening on port 62222
+WebDriver BiDi listening on ws://localhost:62216
+Read port: 62222
+2022-11-28 22:36:22.414 plugin-container[48194:1228243] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:36:22.414 plugin-container[48194:1228243] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-11-28 22:36:22.414 plugin-container[48194:1228246] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-11-28 22:36:22.414 plugin-container[48194:1228246] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1669696582585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/2d/0kzwddjs26389j9q40xpy17h0000gn/T/rust_mozprofileXuexhD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62216/devtools/browser/4ee52db6-8b51-4b42-b99a-4fb17014a245
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.es_419.yCaL3U-x4ks.2019.O/m=sc2,per,mo,lp,ti,ds,stx,bom,b/am=OwDGQA/rt=j/d=1/rs=ACT90oG4xKpnAGX6vaDuk4DP4EXTPvtiUQ, line 2182: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 487: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 487: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 487: TypeError: window.content is null
+JavaScript error: chrome://browser/content/browser-gestureSupport.js, line 509: TypeError: window.content is null
